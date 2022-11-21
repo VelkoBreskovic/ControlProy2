@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "208916755917",
+    "project_id": "controlproy",
+    "storage_bucket": "controlproyv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208916755917:android:b0c5fd4b813cffa3f34084",
+        "android_client_info": {
+          "package_name": "com.controlproyv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208916755917-iij0oo5eaal94e4o30vikgrvml9nnlrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGJDIOUn51AnTaiLYTLRJ5oN5V3AxfTZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208916755917-iij0oo5eaal94e4o30vikgrvml9nnlrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208916755917:android:225d14218404631cf34084",
+        "android_client_info": {
+          "package_name": "com.controlproyv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208916755917-iij0oo5eaal94e4o30vikgrvml9nnlrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGJDIOUn51AnTaiLYTLRJ5oN5V3AxfTZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208916755917-iij0oo5eaal94e4o30vikgrvml9nnlrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
