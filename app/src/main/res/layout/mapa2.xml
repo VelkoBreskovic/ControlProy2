@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    
+    xmlns:mapbox="http://schemas.android.com/apk/res-auto">
+    <com.mapbox.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="-4dp"
+        android:layout_marginTop="-2dp"
+        mapbox:mapbox_cameraTargetLat="-33.449274 "
+        mapbox:mapbox_cameraTargetLng="-70.662332"
+        mapbox:mapbox_cameraZoom="16.0"/>
+
+</RelativeLayout>
