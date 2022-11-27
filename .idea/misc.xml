@@ -4,16 +4,23 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/activity_2.xml" value="0.13043478260869565" />
+        <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/activity_edit.xml" value="0.10989583333333333" />
         <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/activity_hilo.xml" value="0.13043478260869565" />
         <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/activity_main.xml" value="0.13043478260869565" />
         <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/activity_progress_bar.xml" value="0.13043478260869565" />
         <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/activity_proximidad.xml" value="0.13043478260869565" />
+        <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/activity_proy.xml" value="0.10989583333333333" />
         <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/activity_tomar_foto3.xml" value="0.11510416666666666" />
+        <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/activity_view.xml" value="0.1" />
         <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/activityfoto.xml" value="0.13043478260869565" />
         <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/content_main.xml" value="0.1" />
         <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/layout_foto.xml" value="0.1" />
+        <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/loading.xml" value="0.1" />
+        <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/mapa2.xml" value="0.1" />
         <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/page1.xml" value="0.11510416666666666" />
+        <entry key="..\:/Users/neckr/AndroidStudioProjects/ControlProyV2/app/src/main/res/layout/principal.xml" value="0.1" />
       </map>
     </option>
   </component>
