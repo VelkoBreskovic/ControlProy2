@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_edad" type="id" />
+    <item name="btn_agregar" type="id" />
+    <item name="btn_ver" type="id" />
+    <item name="et_apellido" type="id" />
+    <item name="et_nombre" type="id" />
+</resources>
