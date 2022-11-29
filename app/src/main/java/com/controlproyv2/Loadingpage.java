@@ -24,7 +24,7 @@ public class Loadingpage extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent intent = new Intent(Loadingpage.this, MainActivity.class);
+                Intent intent = new Intent(Loadingpage.this, ProyActivity.class);
                 startActivity(intent);
                 Loadingpage.this.finish();
             }
